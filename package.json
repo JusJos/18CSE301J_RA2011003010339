@@ -1,0 +1,22 @@
+{
+  "name": "myresume",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JusJos/18CSE301J_RA2011003010339.git"
+  },
+  "keywords": [
+    "Information_Visualization_RA2011003010339"
+  ],
+  "author": "Justin JOseph\u001b[D\u001b[D\u001b[D\u001b[o",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JusJos/18CSE301J_RA2011003010339/issues"
+  },
+  "homepage": "https://github.com/JusJos/18CSE301J_RA2011003010339#readme"
+}
